@@ -8,7 +8,7 @@
 ### Hi there 👋 , I am Lisa Das Mohapatra! 
  🔭 I’m currently working on Kotlin, coreJava and Flutter.
 - 🌱 I’m currently learning JetPack Compose, Kotlin MultiPlatform.
-- 📫 How to reach me: lisadasmohapatra12@gmail.com
+- 📫 How to reach me: lisadasmohapatra414@gmail.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lisumac&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisumac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
