@@ -6,7 +6,7 @@
 <p>
   
 ### Hi there 👋 , I am Lisa Das Mohapatra! 
- 🔭 I’m currently working on Kotlin, coreJava and Flutter.
+ 🔭 I’m currently working on Kotlin, CMP, JetpackCompose.
 - 🌱 I’m currently learning JetPack Compose, Kotlin MultiPlatform.
 - 📫 How to reach me: lisadasmohapatra414@gmail.com
 
