@@ -5,11 +5,12 @@
 </a>
 <p>
   
-### Hi there 👋 , I am Lisa Das Mohapatra! 
- 🔭 I’m currently working on Kotlin, CMP, JetpackCompose.
-- 🌱 I’m currently learning JetPack Compose, Kotlin MultiPlatform.
-- 📫 How to reach me: lisadasmohapatra@outlook.com
-- portfolio- https://lisumac.github.io
+### Hi there 👋, I'm Lisa Das Mohapatra!
+
+- 💻 Android Developer | Kotlin | Java
+- 🌱 Currently learning Jetpack Compose and Kotlin Multiplatform (KMP)
+- 📫 Email: lisadasmohapatra@outlook.com
+- 🌐 Portfolio: https://lisumac.github.io
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lisumac&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisumac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
